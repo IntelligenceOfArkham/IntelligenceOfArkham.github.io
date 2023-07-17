@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[9322],{34879:function(n,_,u){(window.__NEXT_P=window.__NEXT_P||[]).push(["/homepageComponents/buyWithUsdtModal",function(){return u(3373)}])}},function(n){n.O(0,[4976,3373,9774,2888,179],function(){return n(n.s=34879)}),_N_E=n.O()}]);
